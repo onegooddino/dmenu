@@ -1,0 +1,6 @@
+*.rej
+*.orig
+*.o
+dmenu
+stest
+config.h
